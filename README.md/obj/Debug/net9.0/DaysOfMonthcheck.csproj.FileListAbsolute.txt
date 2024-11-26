@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\bin\Debug\net9.0\DaysOfMonthcheck.exe
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\bin\Debug\net9.0\DaysOfMonthcheck.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\bin\Debug\net9.0\DaysOfMonthcheck.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\bin\Debug\net9.0\DaysOfMonthcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\bin\Debug\net9.0\DaysOfMonthcheck.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\refint\DaysOfMonthcheck.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\DaysOfMonthcheck.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\DaysOfMonthcheck\obj\Debug\net9.0\ref\DaysOfMonthcheck.dll
